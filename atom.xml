@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://saaauce.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-05-07T12:36:12.024Z</updated>
+    <title>YOUNG FOR U</title>
+    <updated>2022-05-07T13:06:28.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://saaauce.github.io"/>
     <link rel="self" href="https://saaauce.github.io/atom.xml"/>
@@ -10,7 +10,7 @@
 </subtitle>
     <logo>https://saaauce.github.io/images/avatar.png</logo>
     <icon>https://saaauce.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, YOUNG FOR U</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://saaauce.github.io/post/hello-gridea/</id>
